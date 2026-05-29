@@ -1,3 +1,5 @@
+<img src="Profile_Photo.JPG" width="220">
+
 # Eunsun Kim
 
 Hello! I’m a PhD Candidate at UCLA Anderson School of Management. 
