@@ -1,4 +1,2 @@
 title: Eunsun Kim
-theme: jekyll-theme-minimal
-github:
-  is_project_page: false
+theme: minima
