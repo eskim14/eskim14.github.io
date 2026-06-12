@@ -1,6 +1,6 @@
-[Home](/) | [Research](/) | [CV](/files/cv.pdf) 
+[Home](/) | [Research](/research) | [CV](/files/cv.pdf)
 
-<img src="Profile_Photo.JPG" width="400">
+<img src="Profile_Photo.JPG" width="500">
 
 # Eunsun Kim
 
