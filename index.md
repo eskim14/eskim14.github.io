@@ -1,4 +1,6 @@
-<img src="Profile_Photo.JPG" width="300">
+[Home](/) | [Research](/) | [CV](/files/cv.pdf) 
+
+<img src="Profile_Photo.JPG" width="400">
 
 # Eunsun Kim
 
