@@ -30,7 +30,7 @@ permalink: /teaching/
       <h2>Duke University</h2>
       <p class="teaching-entry__role">Teaching Assistant</p>
       <ul>
-        <li>Everything Data <span>(Computer Science)</span></li>
+        <li><a href="https://sites.duke.edu/compsci216s2021/">Everything Data</a> <span>(Computer Science)</span></li>
         <li>Linear Algebra <span>(Mathematics)</span></li>
         <li>Calculus <span>(Mathematics)</span></li>
       </ul>
