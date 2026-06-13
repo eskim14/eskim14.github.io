@@ -29,8 +29,8 @@ permalink: /teaching/
       <h2>Duke University</h2>
       <ul>
         <li><a href="https://sites.duke.edu/compsci216s2021/">Everything Data</a> <span>(Computer Science)</span></li>
-        <li>Linear Algebra <span>(Mathematics)</span></li>
-        <li>Calculus <span>(Mathematics)</span></li>
+        <li>Linear Algebra and Applications <span>(Mathematics)</span></li>
+        <li>Linear Algebra and Differential Equations <span>(Mathematics)</span></li>
       </ul>
     </div>
   </article>
