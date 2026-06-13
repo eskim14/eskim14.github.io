@@ -36,6 +36,14 @@ permalink: /teaching/
   </article>
 
   <article class="teaching-entry">
+    <div class="teaching-entry__meta"><span>2020</span></div>
+    <div class="teaching-entry__content">
+      <h2>Center for Data and Visualization Sciences, Duke University</h2>
+      <p class="teaching-entry__role">Economics Data Intern</p>
+    </div>
+  </article>
+
+  <article class="teaching-entry">
     <div class="teaching-entry__meta"><span>2018–2019</span></div>
     <div class="teaching-entry__content">
       <h2>Seoul National University Business School</h2>
