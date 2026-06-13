@@ -5,6 +5,15 @@ description: Eunsun Kim is a PhD candidate in Quantitative Marketing at UCLA And
 ---
 
 <section class="hero">
+  <figure class="portrait">
+    <img
+      src="/Profile_Photo.JPG"
+      alt="Eunsun Kim"
+      width="3000"
+      height="2000"
+    >
+  </figure>
+
   <div class="hero__content">
     <h1>Eunsun Kim</h1>
     <p class="hero__lead">
@@ -23,15 +32,6 @@ description: Eunsun Kim is a PhD candidate in Quantitative Marketing at UCLA And
       <a class="button button--secondary" href="/files/cv.pdf">Download CV</a>
     </div>
   </div>
-
-  <figure class="portrait">
-    <img
-      src="/assets/images/eunsun-kim.jpg"
-      alt="Eunsun Kim"
-      width="760"
-      height="760"
-    >
-  </figure>
 </section>
 
 <section class="home-grid">

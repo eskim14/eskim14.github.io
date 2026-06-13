@@ -126,8 +126,8 @@ img {
   display: grid;
   min-height: 660px;
   align-items: center;
-  grid-template-columns: minmax(0, 1.12fr) minmax(320px, 0.88fr);
-  gap: clamp(48px, 8vw, 100px);
+  grid-template-columns: minmax(380px, 0.92fr) minmax(0, 1.08fr);
+  gap: clamp(52px, 7vw, 90px);
   padding-block: 84px 96px;
 }
 
@@ -184,7 +184,7 @@ h2 {
 .portrait::before {
   position: absolute;
   z-index: -1;
-  right: -24px;
+  left: -24px;
   bottom: -24px;
   width: 72%;
   height: 72%;
@@ -194,11 +194,9 @@ h2 {
 
 .portrait img {
   width: 100%;
-  aspect-ratio: 1;
+  height: auto;
   border-radius: 2px;
   box-shadow: var(--shadow);
-  object-fit: cover;
-  object-position: 50% 34%;
 }
 
 .button-row {
@@ -314,6 +312,10 @@ h2 {
   font-size: 21px;
 }
 
+.page-header--compact {
+  padding-bottom: 58px;
+}
+
 .paper-card {
   display: grid;
   grid-template-columns: 180px minmax(0, 1fr);
@@ -362,6 +364,56 @@ h2 {
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 0.03em;
+}
+
+.teaching-list {
+  padding-bottom: 110px;
+}
+
+.teaching-entry {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  gap: 46px;
+  padding: 46px 0 52px;
+  border-top: 1px solid var(--line);
+}
+
+.teaching-entry__meta span {
+  display: inline-block;
+  padding-top: 8px;
+  border-top: 3px solid var(--gold);
+  color: var(--navy);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+}
+
+.teaching-entry h2 {
+  margin-bottom: 6px;
+  font-size: clamp(29px, 3vw, 39px);
+  line-height: 1.2;
+}
+
+.teaching-entry__role {
+  margin-bottom: 18px;
+  color: var(--navy);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.teaching-entry ul {
+  margin: 0;
+  padding: 0;
+  color: var(--muted);
+  list-style: none;
+}
+
+.teaching-entry li {
+  padding: 5px 0;
+}
+
+.teaching-entry li span {
+  color: #7c8790;
 }
 
 .site-footer {
@@ -427,7 +479,8 @@ h2 {
   }
 
   .home-grid,
-  .paper-card {
+  .paper-card,
+  .teaching-entry {
     grid-template-columns: 1fr;
     gap: 24px;
   }
@@ -442,6 +495,10 @@ h2 {
 
   .paper-card {
     padding-block: 46px 60px;
+  }
+
+  .teaching-entry {
+    padding-block: 38px 44px;
   }
 }
 
@@ -459,11 +516,11 @@ h2 {
   }
 
   .site-nav {
-    gap: 14px;
+    gap: 12px;
   }
 
   .site-nav a {
-    font-size: 13px;
+    font-size: 12px;
   }
 
   .hero {
@@ -475,7 +532,7 @@ h2 {
   }
 
   .portrait::before {
-    right: -10px;
+    left: -10px;
     bottom: -10px;
   }
 
