@@ -6,7 +6,7 @@ permalink: /teaching/
 ---
 
 <header class="page-header page-header--compact">
-  <p class="eyebrow">Teaching</p>
+  <p class="eyebrow">Teaching Assistant</p>
   <h1>Teaching experience</h1>
 </header>
 
