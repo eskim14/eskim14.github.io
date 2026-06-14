@@ -38,7 +38,7 @@ permalink: /teaching/
   <article class="teaching-entry">
     <div class="teaching-entry__meta"><span>2020</span></div>
     <div class="teaching-entry__content">
-      <h2>Center for Data and Visualization Sciences, Duke University</h2>
+      <h2><a href="https://library.duke.edu/data/about">Center for Data and Visualization Sciences</a>, Duke University</h2>
       <p class="teaching-entry__role">Economics Data Intern</p>
     </div>
   </article>
