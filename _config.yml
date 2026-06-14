@@ -5,6 +5,11 @@ author:
   name: Eunsun Kim
   email: eunsun.kim.phd@anderson.ucla.edu
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-445TGJHK9P"
+
 markdown: kramdown
 permalink: pretty
 
