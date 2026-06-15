@@ -16,9 +16,9 @@ permalink: /teaching/
     <div class="teaching-entry__content">
       <h2>UCLA Anderson School of Management</h2>
       <ul>
-        <li>Customer Assessment and Analytics</li>
-        <li>Statistical Foundations for Data Analytics</li>
-        <li>Data and Decisions</li>
+        <li>Customer Assessment and Analytics <span>(Brett Hollenbeck; Robert Zeithammer)</span></li>
+        <li>Statistical Foundations for Data Analytics <span>(Peter Rossi)</span></li>
+        <li>Data and Decisions <span>(H. Tai Lam)</span></li>
       </ul>
     </div>
   </article>
