@@ -1,0 +1,17 @@
+title: Eunsun Kim
+description: PhD Candidate in Quantitative Marketing at UCLA Anderson
+url: https://eunsun-kim.com
+author:
+  name: Eunsun Kim
+  email: eunsun.kim.phd@anderson.ucla.edu
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-445TGJHK9P"
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
