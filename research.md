@@ -14,32 +14,33 @@ permalink: /research/
     <h3>Abstract</h3>
     <p>
       I study how algorithmic price responses reshape competition when firms
-      differ in demand advantage. Using synchronized high-frequency
-      cross-platform pricing data, I find that Amazon, despite being the
-      dominant platform, stands out as an effective follower. I investigate
-      this strategy, which I call dominant followership, as a mechanism through
-      which demand asymmetry can soften price competition.
+      differ in demand advantage and response reliability. Using synchronized
+      high-frequency cross-platform pricing data, I find that Amazon, despite
+      being the dominant platform, stands out as an effective follower. I
+      investigate this strategy, which I call dominant followership, as a
+      mechanism through which demand asymmetry can raise prices.
     </p>
     <p>
       A sequential Bertrand model modified to break ties in favor of the
       dominant firm explains why this mechanism can be incentive-compatible:
-      with majority demand at price parity, the dominant firm can monetize its
-      existing customer base by matching rather than undercutting. Anticipating
-      this response, the rival can profitably initiate price increases that
-      would otherwise be difficult to sustain. This matching incentive raises
-      prices above the simultaneous-move Nash equilibrium level only when a
-      market friction limits the rival's ability to immediately respond.
+      with majority demand at price parity, the dominant firm may prefer to
+      match rather than undercut because matching lets it monetize its existing
+      customer base. Anticipating this response, the rival can profitably
+      initiate price increases that would otherwise be difficult to sustain.
+      Prices rise above the simultaneous-move Nash equilibrium level only when
+      the two asymmetries coincide: the demand-advantaged firm must also be the
+      reliable responder.
     </p>
     <p>
-      When pricing is delegated to adaptive algorithms, the dominant firm's
-      response becomes part of the feedback that the rival learns from over
-      time. In Q-learning simulations, price increases emerge through learning
-      in the rival's algorithm, yet most of the surplus accrues to the dominant
-      firm. The main takeaway of this paper is that algorithmic price
-      competition among asymmetric firms should be modeled as a sequential
-      response process: when demand asymmetry changes response incentives,
-      individually incentive-compatible pricing decisions can soften competition
-      without explicit coordination.
+      When pricing is delegated to adaptive algorithms, the same demand and
+      timing asymmetries shape not only current pricing incentives, but also
+      what rivals learn from market feedback over time. In Q-learning
+      simulations, price increases emerge through learning in the rival's
+      algorithm, yet most of the surplus accrues to the dominant firm. The main
+      takeaway is that algorithmic price competition among asymmetric firms
+      should be modeled as a sequential response process: when demand asymmetry
+      changes response incentives, individually incentive-compatible pricing
+      decisions can soften competition without explicit coordination.
     </p>
   </div>
 </section>
