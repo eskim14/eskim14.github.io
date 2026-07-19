@@ -37,7 +37,7 @@ permalink: /research/
       what rivals learn from market feedback over time. In Q-learning
       simulations, price increases emerge through learning in the rival's
       algorithm, yet most of the surplus accrues to the dominant firm. The main
-      takeaway is that algorithmic price competition among asymmetric firms
+      insight is that algorithmic price competition among asymmetric firms
       should be modeled as a sequential response process: when demand asymmetry
       changes response incentives, individually incentive-compatible pricing
       decisions can soften competition without explicit coordination.
