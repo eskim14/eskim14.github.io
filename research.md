@@ -23,7 +23,7 @@ permalink: /research/
     <p>
       A sequential Bertrand model modified to break ties in favor of the
       dominant firm explains why this mechanism can be incentive-compatible:
-      with majority demand at price parity, the dominant firm may prefer to
+      with a majority of demand at price parity, the dominant firm may prefer to
       match rather than undercut because matching lets it monetize its existing
       customer base. Anticipating this response, the rival can profitably
       initiate price increases that would otherwise be difficult to sustain.
@@ -37,7 +37,7 @@ permalink: /research/
       what rivals learn from market feedback over time. In Q-learning
       simulations, price increases emerge through learning in the rival's
       algorithm, yet most of the surplus accrues to the dominant firm. The main
-      insight is that algorithmic price competition among asymmetric firms
+      insight of this paper is that algorithmic price competition among asymmetric firms
       should be modeled as a sequential response process: when demand asymmetry
       changes response incentives, individually incentive-compatible pricing
       decisions can soften competition without explicit coordination.
