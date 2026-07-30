@@ -44,4 +44,14 @@ permalink: /teaching/
       </ul>
     </div>
   </article>
+
+  <article class="teaching-entry">
+    <div class="teaching-entry__meta"><span>2024–present</span></div>
+    <div class="teaching-entry__content">
+      <h2>Additional Instruction</h2>
+      <ul>
+        <li>Certified Yoga Instructor, CorePower Yoga</li>
+      </ul>
+    </div>
+  </article>
 </section>
