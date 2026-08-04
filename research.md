@@ -10,7 +10,11 @@ permalink: /research/
     <span>Job Market Paper</span>
   </div>
   <div class="paper-card__content">
-    <h2>Following to Lead: Dominant Followership in Sequential Price Competition <a class="paper-card__draft-link" href="/papers/dominant_followership.pdf">[Latest Draft]</a></h2>
+    <h2>Following to Lead: Dominant Followership in Sequential Price Competition</h2>
+    <div class="paper-card__draft-banner">
+      <span>Latest draft available</span>
+      <a href="/papers/dominant_followership.pdf">Download PDF</a>
+    </div>
     <h3>Abstract</h3>
     <p>
       Dominant firms are usually thought to be price leaders: they move first, and rivals follow. Amazon, the dominant platform in online retail, rather follows than leads. Further, despite its dominant market position, Amazon is usually priced at or below the lowest rival price; its distinctiveness lies not in what it charges but in how it responds when a rival moves first. Using synchronized high-frequency cross-platform pricing data, I document three patterns in Amazon's response. First, after a rival raises its price, Amazon is 13 percentage points more likely to raise its own price shortly after, more than three times the response of other major platforms. Second, when Amazon responds, it matches the rival's new price. Third, matched rival price increases remain in place longer than unmatched ones. I call this strategy dominant followership. A sequential Bertrand model modified to break ties in favor of the dominant firm shows why dominant followership can be incentive-compatible: because the dominant firm keeps most demand when prices are comparable, it may prefer matching a rival's higher price to undercutting it. Prices rise above the simultaneous-move Nash equilibrium only when the demand-advantaged firm is also the reliable responder. Using simulation studies, I show that Q-learning algorithms discover dominant followership endogenously: the rival's algorithm learns to initiate higher prices, nearly tripling the market price, yet the dominant firm captures 91 percent of the resulting profit gains. This speaks to the FTC's Project Nessie allegation: individually optimal responses can teach rival algorithms that raising price is profitable, even without explicit coordination. The main insight is that modern algorithmic price competition among asymmetric firms should be modeled as a sequential response process: who responds to a price change matters as much as the price itself.

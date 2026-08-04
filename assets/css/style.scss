@@ -318,12 +318,23 @@ h2 {
   line-height: 1.15;
 }
 
-.paper-card__draft-link {
-  display: inline-block;
-  margin-left: 10px;
+.paper-card__draft-banner {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  margin: -6px 0 12px;
+  padding: 10px 14px;
+  border-left: 3px solid var(--gold);
+  background: rgba(177, 132, 44, 0.08);
   color: var(--navy);
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
+}
+
+.paper-card__draft-banner a {
+  color: var(--navy);
+  text-decoration: underline;
+  text-underline-offset: 3px;
   white-space: nowrap;
 }
 
