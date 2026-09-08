@@ -17,7 +17,7 @@ permalink: /research/
     </div>
     <p class="paper-card__coverage">
       Related coverage:
-      <a href="https://anderson-review.ucla.edu/institutions-make-mistakes-which-should-we-seek-to-prevent-which-ought-we-fix-after-the-fact/">UCLA Anderson Review</a>
+      <a href="https://anderson-review.ucla.edu/how-amazon-can-shape-prices-by-responding-to-rivals/">UCLA Anderson Review</a>
     </p>
     <h3>Abstract</h3>
     <p>
