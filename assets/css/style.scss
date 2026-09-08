@@ -338,6 +338,16 @@ h2 {
   white-space: nowrap;
 }
 
+.paper-card__coverage {
+  margin-bottom: 0;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.paper-card__coverage a {
+  font-weight: 600;
+}
+
 .paper-card h3 {
   margin: 38px 0 12px;
   color: var(--navy);
